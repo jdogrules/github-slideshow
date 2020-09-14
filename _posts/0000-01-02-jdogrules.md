@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-jdog rules!!!
+this is an important message
 Use the left arrow to go back!
